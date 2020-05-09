@@ -1,4 +1,4 @@
-<p>Test project with SOLID principles implementation</p>
+<h1>Test project with SOLID principles implementation</h1>
 
 <p>
     To run test execute <br/>
